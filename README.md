@@ -21,7 +21,7 @@ MCDuels is a work in progress PvP server, all systems are proprietary and as a r
 
 #### Known Bugs 🐛
 > There are currently **1** known, and **3** recently patched bugs.
-- [x] "Leave Queue" item remains in inventory periodically when placed into duel.
+- [ ] "Leave Queue" item remains in inventory periodically when placed into duel.
 - [x] ~~Double-win exploit.~~
 - [x] ~~Server lockup closely related to double-win exploit.~~
 - [x] ~~Fixed spawn orientations.~~
