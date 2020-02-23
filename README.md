@@ -2,7 +2,7 @@
 MCDuels is a work in progress PvP server, all systems are proprietary and as a result, it's important to keep the community up to date when it comes to feature requests, and bug statuses. This is the hub for everything that needs to be patched, and added to the server to deliver the best PvP experience. 
 
 #### In-Game Features & Requests 🤔
-> There are currently **5** in progress, and **2** recently implemented features.
+> There are currently **4** in progress, and **3** recently implemented features.
 - [ ] Targeted duels via command, or hitting players with an item in the lobby.
 - [ ] Report command with instant Discord moderator notifications.
 - [ ] Forward AC notifications to Discord moderators if they reach high threshold.
@@ -12,7 +12,7 @@ MCDuels is a work in progress PvP server, all systems are proprietary and as a r
 - [x] ~~Different win messages depending on the degree that a player wins a game.~~
 
 #### Website & Discord Features & Requests 💻
-> There are currently **3** in progress, and **2** recently implemented features.
+> There are currently **2** in progress, and **3** recently implemented features.
 - [ ] Home page.
 - [ ] Rank page & payment gateway.
 - [x] ~~Live website leaderboard.~~
